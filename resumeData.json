@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Pyae Naing",
+    "occupation":"N/A",
+    "description":"I have a B.S. degree in Computer Science and Minor in Mathmatics with 3.5 G.P.A. I am currently looking for job in software development.",
+    "image":"profilepic.jpg",
+    "bio":"Hey, my name is Pyae Naing. I have recently graduated from San Francisco State University in May 2020, with B.S in Computer Science and Minor in Mathmatics. I design, and create database and functions that are fast and high performance for the backend. I have done projects in in Java, C++, Javascript, MySQL, MongoDB and Node.JS. I am dedicated worker, problem solver, team player and would love to prove it to you.",
+    "help":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "naingpyae98@gmail.com",
+    "phone": "415-562-6921",
+    "address":{
+      "street":"397 Imperial Way, Apt # 348",
+      "city":"Daly City",
+      "state":"CA",
+      "zip": "94015"
+    },
+    "website": "https://pyaenaing.github.io/",
+    "resumedownload":"https://drive.google.com/file/d/1k4p0HDk--Dh3BMHktHRVdZ13VYy9tmga/view?usp=sharing",
+    "social":[
+
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AlienPaya",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pyae-naing-0a1a7513a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/pyaenaing",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"San Francisco State University",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"May 2020",
+        "description":"Course taken : Data Structures and Algorithms, Algorithm Analysis, Software Development, Operating System Principle, Introduction to Database Systems, Internet Application Design and Development, Artificial Intelligence, Software Engineering. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Amazon Warehouse",
+        "title":"WAREHOUSE FUFILLMENT ASSOCIATE",
+        "years":"Summer 2018",
+        "description":"Embark merchandise in delivery trucks using appropriate tools.\nLabel and stockpile merchandise according to size, shape, and type.\nEnter data in inventory and logistics software programs."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"MySQL",
+        "level":"40%"
+      },
+      {
+        "name":"Node.JS",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ToDo list app",
+        "category":"This is simple todo list app. It allows user to create and delete to-do list. Use mongodb and heroku",
+        "image":"list.jpg",
+        "url":"https://pyae-notelist.herokuapp.com/"
+      },
+
+      {
+        "title":"Note-App",
+        "category":"Like the todo list but this Note Taking App only allows authorized users to post and edit notes in sticky notes style.",
+        "image":"StickyNote.jpg",
+        "url":"https://pyaenaing.github.io/noteFE/#/"
+      },
+
+      {
+        "title":"O-Mail",
+        "category":"Mock-Up Mail App that is React base and Java backend with MongoDB as database ",
+        "image":"mail.jpg",
+        "url":"https://pyaenaing.github.io/Project_Omail"
+      },
+      {
+        "title":"Cookable Recipe Website",
+        "category":"(Offline Now) Group project web-app for uploading and viewing recipes.",
+        "image":"recipe.jpg",
+        "url":"https://github.com/PyaeNaing/Cookable"
+      },
+      {
+        "title":"Gator-Dator",
+        "category":"(Offline Now) React based dating app for SFSU students.",
+        "image":"heart.jpg",
+        "url":"https://github.com/PyaeNaing/final-project-gator-dater"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
